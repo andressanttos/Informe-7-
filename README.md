@@ -22,6 +22,7 @@ _Objetivos Específicos_
 
 2.MARCO TEÓRICO
 
+
 ![](img/marco.jpg)
 
 3. DIAGRAMAS
@@ -48,4 +49,6 @@ _Objetivos Específicos_
 • 
 
 8. Anexos
+
+
 
