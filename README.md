@@ -27,7 +27,6 @@ _Objetivos Específicos_
 3. DIAGRAMAS
 
 
-
 4. LISTA DE COMPONENTES
 
 ![](img/componentes.jpg)
