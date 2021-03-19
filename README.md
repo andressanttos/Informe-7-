@@ -30,7 +30,18 @@ _Objetivos Específicos_
 
 5. EXPLICACIÓN 
 
-![](
+![](https://github.com/andressanttos/Informe-7-/blob/main/img/1.png)
+
+![](https://github.com/andressanttos/Informe-7-/blob/main/img/2.png)
+
+![](https://github.com/andressanttos/Informe-7-/blob/main/img/3.png)
+
+![](https://github.com/andressanttos/Informe-7-/blob/main/img/4.png)
+
+![](https://github.com/andressanttos/Informe-7-/blob/main/img/5.png)
+
+![](https://github.com/andressanttos/Informe-7-/blob/main/img/6.png)
+
 
 6. CONCLUSIONES:
 
