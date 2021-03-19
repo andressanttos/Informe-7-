@@ -42,6 +42,7 @@ _Objetivos Específicos_
 
 ![](https://github.com/andressanttos/Informe-7-/blob/main/img/6.png)
 
+Al comparar los resultados se puede ver que los valores calculados como los valores realizados en calculadora son muy semejantes, lo único que varia es la cantidad de decimales que posee cada resultado.
 
 6. CONCLUSIONES:
 
