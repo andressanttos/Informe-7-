@@ -24,17 +24,13 @@ _Objetivos Específicos_
 
 ![](img/marco.jpg)
 
-
-
-3. DIAGRAMAS
-
-
-4. LISTA DE COMPONENTES
+3. LISTA DE COMPONENTES
 
 ![](img/componentes.jpg)
 
 5. EXPLICACIÓN 
 
+![](
 
 6. CONCLUSIONES:
 
