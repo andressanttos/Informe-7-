@@ -12,13 +12,13 @@ _Objetivos Generales_
 
 _Objetivos Específicos_
 
-•
+• Reconocer la estructura analítica de los números complejos y sus operaciones algebraicas para tranformarlos de su forma polar a rectangular, o viceversa.
 
-•
+• Expresar cantidades fasoriales tanto en forma rectangular como en forma polar
 
-• 
+• Efectuar conversiones entre las formas rectangular y polar
 
-• 
+• Realizar operaciones aritméticas con números complejos
 
 2.MARCO TEÓRICO
 
