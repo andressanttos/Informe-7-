@@ -5,7 +5,7 @@ Informe de Laboratorio N°7
 
 _Objetivos Generales_
 
-•    
+•  Presentar un desarrollo lógico y secuencial en la resolución de los ejercicios planteados, de acuerdo a la teoría del análisis de numeros complejos y establecer los principales métodos y técnicas del cálculo complejo, de acuerdo a su forma polar y rectangular, asi como  como el uso de herramientas para la resolucion de dichos problemas aplicados a la electrónica, especificamente los circuitos de corriente alterna.   
 
 • 
 
